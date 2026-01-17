@@ -41,7 +41,7 @@ I'm a **Python Automation & Web Scraping Specialist** who transforms manual data
 ## 📫 Let's Connect
 - 💼 Portfolio: [View My Work](your-canva-portfolio-link)
 - 📧 Email: adenikinjunicholas@gmail.com
-- 💬 LinkedIn: [Your LinkedIn](your-linkedin-url)
+- 💬 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/adenikinju-nicholas-b1b9ba72/)
 - 🌐 Upwork: (https://www.upwork.com/freelancers/~0128c2fc485a4d9d84?mp_source=share)
 
 💡 **Always learning, always building.** Open to freelance opportunities and collaborations!
