@@ -9,7 +9,9 @@ I'm a **Python Automation & Web Scraping Specialist** who transforms manual data
 - 🔌 **API Integration:** Connect systems and automate data flow between platforms
 - 📊 **Data Processing:** Clean, normalize, and structure data for analysis
 - 🤖 **Browser Automation:** Automate repetitive web tasks and testing
-
+- 💻 **Web Development:** Build custom web applications and landing pages
+- 🔧 **Version Control:** Manage code with Git and collaborate through GitHub
+  
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
